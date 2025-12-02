@@ -39,6 +39,11 @@ Frontend / Fullstack Developer
 
 ---
 
+## Резюме  
+[https://drive.google.com/file/d/1GvxrjvbtbwBp4TEmuJOHhm2b7KDr2Jyt/view?usp=sharing](https://drive.google.com/file/d/1GvxrjvbtbwBp4TEmuJOHhm2b7KDr2Jyt/view?usp=sharing)
+
+---
+
 ## Контакты
 **Email:** 4249495@gmail.com  
 **TG:** https://t.me/moskaletsd  
