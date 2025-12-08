@@ -5,7 +5,7 @@ Frontend / Fullstack Developer
 ---
 
 ## Стек
-**Frontend:** Next.js, React, JS (ES6+), TypeScript, HTML, CSS, Less, Pug  
+**Frontend:**  React, JS (ES6+), TypeScript, HTML, CSS, Less, Pug  
 **Backend:** Python (FastAPI, Django), PHP  
 **DB:** PostgreSQL, MySQL  
 **Инструменты:** Git, Bitbucket, Docker, Figma
@@ -14,11 +14,6 @@ Frontend / Fullstack Developer
 
 ## Достижения
 - Победитель **ITMO.STARS 2023**
-
----
-
-## Резюме  
-[https://drive.google.com/file/d/1GvxrjvbtbwBp4TEmuJOHhm2b7KDr2Jyt/view?usp=sharing](https://drive.google.com/file/d/1GvxrjvbtbwBp4TEmuJOHhm2b7KDr2Jyt/view?usp=sharing)
 
 ---
 
